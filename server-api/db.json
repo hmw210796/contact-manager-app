@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "1329d6c7-8e82-4a7f-bb19-f35291369a52",
+      "name": "asdsada",
+      "email": "asdasd@hotmail.com"
+    },
+    {
+      "id": "e8e0ead7-0aa5-46b1-8f29-3e6aa1168504",
+      "name": "MingWei Ho",
+      "email": "czxc@test.com"
+    },
+    {
+      "id": "a0cb5155-b175-410f-a448-3e409fd38837",
+      "name": "asdas",
+      "email": "hmw210796@hotmail.com"
+    },
+    {
+      "id": "a2933fd9-4f6f-496a-aad3-7f8f6c06e646",
+      "name": "Ming Ho",
+      "email": "asdasda@hotmail.com"
+    }
+  ]
+}
